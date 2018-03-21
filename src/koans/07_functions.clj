@@ -38,4 +38,4 @@
 
   "But they are often better written using the names of functions"
   (= 25 (#(% 5) square)))
- ;(= 25 ((fn [f] (f 5)) square))
+ ;(= 25 ((fn [f] (f 5)) square)) 
